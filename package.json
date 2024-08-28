@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "logitech-g29": "^2.0.0",
+    "ws": "^8.18.0"
+  }
+}
